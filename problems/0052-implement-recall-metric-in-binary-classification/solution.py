@@ -1,5 +1,4 @@
 import numpy as np
-from sklearn.metrics import recall_score
 def recall(y_true, y_pred):
     """
     Calculate the recall metric for binary classification.
@@ -12,4 +11,6 @@ def recall(y_true, y_pred):
         Recall value as a float
     """
     # Your code here
-    return recall_score(y_true,y_pred)
+    tp=np.sum((y_true==1) & (y_pred==1))
+    ap=np.sum(y_true==1)
+    return tp/ap
