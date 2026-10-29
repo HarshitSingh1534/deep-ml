@@ -1,6 +1,8 @@
 
 import numpy as np
-from sklearn.metrics import r2_score
 def r_squared(y_true, y_pred):
 	# Write your code here
-	return r2_score(y_true,y_pred)
+
+	r2=1-(np.sum((y_true-y_pred)**2)/np.sum((y_true-y_true.mean())**2))
+
+	return r2
