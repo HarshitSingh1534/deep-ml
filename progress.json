@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T09:02:07.469Z",
+  "generated_at": "2026-10-30T09:04:10.721Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -362,6 +362,17 @@
       "path": "math/0018-descriptive-statistics",
       "first_solved_at": "2026-10-30T09:02:05.123Z",
       "last_pushed_at": "2026-10-30T09:02:05.123Z"
+    },
+    "math:19": {
+      "kind": "math",
+      "id": "19",
+      "title": "Probability Fundamentals",
+      "difficulty": "easy",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/19",
+      "path": "math/0019-probability-fundamentals",
+      "first_solved_at": "2026-10-30T09:04:08.342Z",
+      "last_pushed_at": "2026-10-30T09:04:08.342Z"
     }
   }
 }
