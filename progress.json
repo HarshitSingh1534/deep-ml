@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T10:08:49.245Z",
+  "generated_at": "2026-11-02T13:58:59.356Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -421,6 +421,19 @@
       "path": "problems/0091-calculate-f1-score-from-predicted-and-true-labels",
       "first_solved_at": "2026-11-02T10:08:48.551Z",
       "last_pushed_at": "2026-11-02T10:08:48.551Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:92": {
+      "kind": "problem",
+      "id": "92",
+      "title": "Linear Regression - Power Grid Optimization",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/92",
+      "path": "problems/0092-linear-regression-power-grid-optimization",
+      "first_solved_at": "2026-11-02T13:58:58.847Z",
+      "last_pushed_at": "2026-11-02T13:58:58.847Z",
       "language": "python",
       "lines": 20
     }
