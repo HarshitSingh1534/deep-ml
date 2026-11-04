@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T09:29:37.107Z",
+  "generated_at": "2026-11-04T09:30:08.590Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -459,7 +459,7 @@
       "url": "https://www.deep-ml.com/problems/93",
       "path": "problems/0093-calculate-mean-absolute-error-mae",
       "first_solved_at": "2026-11-04T09:29:36.003Z",
-      "last_pushed_at": "2026-11-04T09:29:36.003Z",
+      "last_pushed_at": "2026-11-04T09:29:57.709Z",
       "language": "python",
       "lines": 15
     }
