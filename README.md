@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**43** solved · 40 problems · 0 labs · 3 math
+**44** solved · 41 problems · 0 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -39,6 +39,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [SELECT all rows](https://www.deep-ml.com/problems/1101) | easy | 2026-11-08 | [solution](problems/1101-select-all-rows) |
 | [Select specific columns](https://www.deep-ml.com/problems/1102) | easy | 2026-11-08 | [solution](problems/1102-select-specific-columns) |
 | [Shift and Scale Array to Target Range](https://www.deep-ml.com/problems/141) | easy | 2026-11-02 | [solution](problems/0141-shift-and-scale-array-to-target-range) |
+| [Sort results with ORDER BY](https://www.deep-ml.com/problems/1104) | easy | 2026-11-08 | [solution](problems/1104-sort-results-with-order-by) |
 | [Calculate Performance Metrics for a Classification Model](https://www.deep-ml.com/problems/77) | medium | 2026-10-30 | [solution](problems/0077-calculate-performance-metrics-for-a-classification-model) |
 | [Divide Dataset Based on Feature Threshold](https://www.deep-ml.com/problems/31) | medium | 2026-10-25 | [solution](problems/0031-divide-dataset-based-on-feature-threshold) |
 | [Generate Random Subsets of a Dataset](https://www.deep-ml.com/problems/33) | medium | 2026-10-25 | [solution](problems/0033-generate-random-subsets-of-a-dataset) |
