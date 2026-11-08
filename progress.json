@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T06:57:24.837Z",
+  "generated_at": "2026-11-08T06:58:57.412Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -577,6 +577,19 @@
       "path": "problems/1105-remove-duplicates-with-distinct",
       "first_solved_at": "2026-11-08T06:57:13.912Z",
       "last_pushed_at": "2026-11-08T06:57:13.912Z",
+      "language": "sql",
+      "lines": 4
+    },
+    "problem:1106": {
+      "kind": "problem",
+      "id": "1106",
+      "title": "Top N with LIMIT",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1106",
+      "path": "problems/1106-top-n-with-limit",
+      "first_solved_at": "2026-11-08T06:58:56.820Z",
+      "last_pushed_at": "2026-11-08T06:58:56.820Z",
       "language": "sql",
       "lines": 4
     }
