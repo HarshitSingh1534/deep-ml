@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**46** solved · 43 problems · 0 labs · 3 math
+**47** solved · 43 problems · 1 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -55,6 +55,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Decision Tree Learning](https://www.deep-ml.com/problems/20) | hard | 2026-10-24 | [solution](problems/0020-decision-tree-learning) |
 | [Pegasos Kernel SVM Implementation](https://www.deep-ml.com/problems/21) | hard | 2026-10-24 | [solution](problems/0021-pegasos-kernel-svm-implementation) |
 | [Train Logistic Regression with Gradient Descent](https://www.deep-ml.com/problems/106) | hard | 2026-11-05 | [solution](problems/0106-train-logistic-regression-with-gradient-descent) |
+
+## Labs
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Design Your Own Activation Function](https://www.deep-ml.com/labs/9) | easy | 2026-11-08 | [solution](labs/0009-design-your-own-activation-function) |
 
 ## Math
 
