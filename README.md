@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**52** solved · 48 problems · 1 labs · 3 math
+**53** solved · 49 problems · 1 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -37,6 +37,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-10-20 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-10-20 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Measure Disorder in Apple Colors](https://www.deep-ml.com/problems/108) | easy | 2026-11-06 | [solution](problems/0108-measure-disorder-in-apple-colors) |
+| [Monthly Average Product Rating](https://www.deep-ml.com/problems/1249) | easy | 2026-11-09 | [solution](problems/1249-monthly-average-product-rating) |
 | [One-Hot Encoding of Nominal Values](https://www.deep-ml.com/problems/34) | easy | 2026-10-25 | [solution](problems/0034-one-hot-encoding-of-nominal-values) |
 | [Pairwise Cosine Similarity Matrix](https://www.deep-ml.com/problems/1072) | easy | 2026-11-07 | [solution](problems/1072-pairwise-cosine-similarity-matrix) |
 | [Random Shuffle of Dataset](https://www.deep-ml.com/problems/29) | easy | 2026-10-25 | [solution](problems/0029-random-shuffle-of-dataset) |
