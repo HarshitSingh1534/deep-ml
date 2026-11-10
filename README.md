@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**58** solved · 54 problems · 1 labs · 3 math
+**59** solved · 55 problems · 1 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -14,6 +14,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Average per group](https://www.deep-ml.com/problems/1108) | easy | 2026-11-08 | [solution](problems/1108-average-per-group) |
 | [Batch Iterator for Dataset](https://www.deep-ml.com/problems/30) | easy | 2026-10-25 | [solution](problems/0030-batch-iterator-for-dataset) |
+| [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2026-11-10 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
 | [Calculate Accuracy Score](https://www.deep-ml.com/problems/36) | easy | 2026-10-25 | [solution](problems/0036-calculate-accuracy-score) |
 | [Calculate Dice Score for Classification](https://www.deep-ml.com/problems/73) | easy | 2026-10-30 | [solution](problems/0073-calculate-dice-score-for-classification) |
 | [Calculate F1 Score from Predicted and True Labels](https://www.deep-ml.com/problems/91) | easy | 2026-11-02 | [solution](problems/0091-calculate-f1-score-from-predicted-and-true-labels) |
