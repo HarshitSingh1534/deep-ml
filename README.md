@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**60** solved · 56 problems · 1 labs · 3 math
+**61** solved · 57 problems · 1 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -57,6 +57,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Your first JOIN](https://www.deep-ml.com/problems/1109) | easy | 2026-11-08 | [solution](problems/1109-your-first-join) |
 | [Calculate Performance Metrics for a Classification Model](https://www.deep-ml.com/problems/77) | medium | 2026-10-30 | [solution](problems/0077-calculate-performance-metrics-for-a-classification-model) |
 | [Divide Dataset Based on Feature Threshold](https://www.deep-ml.com/problems/31) | medium | 2026-10-25 | [solution](problems/0031-divide-dataset-based-on-feature-threshold) |
+| [Employees Earning More Than Their Managers](https://www.deep-ml.com/problems/1113) | medium | 2026-11-11 | [solution](problems/1113-employees-earning-more-than-their-managers) |
 | [Generate Random Subsets of a Dataset](https://www.deep-ml.com/problems/33) | medium | 2026-10-25 | [solution](problems/0033-generate-random-subsets-of-a-dataset) |
 | [Generate Sorted Polynomial Features](https://www.deep-ml.com/problems/32) | medium | 2026-10-25 | [solution](problems/0032-generate-sorted-polynomial-features) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-10-29 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
