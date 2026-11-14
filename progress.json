@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T08:58:00.836Z",
+  "generated_at": "2026-11-14T09:16:09.957Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -837,6 +837,19 @@
       "path": "problems/1110-nth-highest-salary-with-ties-and-null",
       "first_solved_at": "2026-11-14T08:58:00.366Z",
       "last_pushed_at": "2026-11-14T08:58:00.366Z",
+      "language": "sql",
+      "lines": 3
+    },
+    "problem:1111": {
+      "kind": "problem",
+      "id": "1111",
+      "title": "Top-3 Salaries Per Department",
+      "difficulty": "medium",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1111",
+      "path": "problems/1111-top-3-salaries-per-department",
+      "first_solved_at": "2026-11-14T09:16:09.693Z",
+      "last_pushed_at": "2026-11-14T09:16:09.693Z",
       "language": "sql",
       "lines": 3
     }

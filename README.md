@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**65** solved · 61 problems · 1 labs · 3 math
+**66** solved · 62 problems · 1 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -70,6 +70,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Linear Regression - Power Grid Optimization](https://www.deep-ml.com/problems/92) | medium | 2026-11-02 | [solution](problems/0092-linear-regression-power-grid-optimization) |
 | [Nth-Highest Salary with Ties and NULL](https://www.deep-ml.com/problems/1110) | medium | 2026-11-14 | [solution](problems/1110-nth-highest-salary-with-ties-and-null) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2026-10-24 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
+| [Top-3 Salaries Per Department](https://www.deep-ml.com/problems/1111) | medium | 2026-11-14 | [solution](problems/1111-top-3-salaries-per-department) |
 | [Decision Tree Learning](https://www.deep-ml.com/problems/20) | hard | 2026-10-24 | [solution](problems/0020-decision-tree-learning) |
 | [Pegasos Kernel SVM Implementation](https://www.deep-ml.com/problems/21) | hard | 2026-10-24 | [solution](problems/0021-pegasos-kernel-svm-implementation) |
 | [Train Logistic Regression with Gradient Descent](https://www.deep-ml.com/problems/106) | hard | 2026-11-05 | [solution](problems/0106-train-logistic-regression-with-gradient-descent) |
