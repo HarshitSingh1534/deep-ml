@@ -1,0 +1,2 @@
+-- your query
+SELECT mont,total,ROUND((total-prev)*100/prev,2) as pct_change from (SELECT date_trunc('month', sale_date) as mont,SUM(amount) as total,LAG(SUM(AMOUNT)) OVER(ORDER BY date_trunc('month', sale_date)) as prev from sales GROUP BY date_trunc('month', sale_date)) t;
