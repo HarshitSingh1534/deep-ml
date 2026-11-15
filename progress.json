@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T08:15:12.074Z",
+  "generated_at": "2026-11-15T08:22:31.792Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -969,6 +969,19 @@
       "last_pushed_at": "2026-11-15T08:15:11.560Z",
       "language": "sql",
       "lines": 4
+    },
+    "problem:1121": {
+      "kind": "problem",
+      "id": "1121",
+      "title": "Highest-Paid Workers with Title Join and Ties",
+      "difficulty": "medium",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1121",
+      "path": "problems/1121-highest-paid-workers-with-title-join-and-ties",
+      "first_solved_at": "2026-11-15T08:22:31.534Z",
+      "last_pushed_at": "2026-11-15T08:22:31.534Z",
+      "language": "sql",
+      "lines": 2
     }
   }
 }
