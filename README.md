@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**70** solved · 66 problems · 1 labs · 3 math
+**71** solved · 67 problems · 1 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -69,6 +69,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Layer Normalization for Sequence Data](https://www.deep-ml.com/problems/109) | medium | 2026-11-06 | [solution](problems/0109-implement-layer-normalization-for-sequence-data) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-10-20 | [solution](problems/0017-k-means-clustering) |
 | [Linear Regression - Power Grid Optimization](https://www.deep-ml.com/problems/92) | medium | 2026-11-02 | [solution](problems/0092-linear-regression-power-grid-optimization) |
+| [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-11-15 | [solution](problems/0007-matrix-transformation) |
 | [Month-over-Month Percentage Change with LAG](https://www.deep-ml.com/problems/1115) | medium | 2026-11-14 | [solution](problems/1115-month-over-month-percentage-change-with-lag) |
 | [Nth-Highest Salary with Ties and NULL](https://www.deep-ml.com/problems/1110) | medium | 2026-11-14 | [solution](problems/1110-nth-highest-salary-with-ties-and-null) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2026-10-24 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
