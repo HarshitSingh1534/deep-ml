@@ -1,0 +1,2 @@
+-- your query
+SELECT company,total from (SELECT *,DENSE_RANK() OVER(ORDER BY total DESC) as ranked from (SELECT company,sum(profit) as total from sales group by company)) where ranked<4 order by total DESC,company;
