@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T13:19:57.178Z",
+  "generated_at": "2026-11-18T14:20:57.046Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -1034,6 +1034,19 @@
       "last_pushed_at": "2026-11-17T13:19:55.309Z",
       "language": "sql",
       "lines": 3
+    },
+    "problem:2333": {
+      "kind": "problem",
+      "id": "2333",
+      "title": "Your First CTE: Aggregate in One Step, Use It in the Next",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/2333",
+      "path": "problems/2333-your-first-cte-aggregate-in-one-step-use-it-in-the-next",
+      "first_solved_at": "2026-11-18T14:20:53.819Z",
+      "last_pushed_at": "2026-11-18T14:20:53.819Z",
+      "language": "sql",
+      "lines": 4
     }
   }
 }
