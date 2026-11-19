@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T14:20:57.046Z",
+  "generated_at": "2026-11-19T08:24:27.158Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -1047,6 +1047,19 @@
       "last_pushed_at": "2026-11-18T14:20:53.819Z",
       "language": "sql",
       "lines": 4
+    },
+    "problem:2336": {
+      "kind": "problem",
+      "id": "2336",
+      "title": "Join Three Tables: Order Totals from Line Items",
+      "difficulty": "medium",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/2336",
+      "path": "problems/2336-join-three-tables-order-totals-from-line-items",
+      "first_solved_at": "2026-11-19T08:24:26.816Z",
+      "last_pushed_at": "2026-11-19T08:24:26.816Z",
+      "language": "sql",
+      "lines": 15
     }
   }
 }
