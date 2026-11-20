@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**82** solved · 78 problems · 1 labs · 3 math
+**83** solved · 79 problems · 1 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -31,6 +31,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-10-20 | [solution](problems/0016-feature-scaling-implementation) |
 | [Filter rows with WHERE](https://www.deep-ml.com/problems/1103) | easy | 2026-11-08 | [solution](problems/1103-filter-rows-with-where) |
 | [Generate a Confusion Matrix for Binary Classification](https://www.deep-ml.com/problems/75) | easy | 2026-10-29 | [solution](problems/0075-generate-a-confusion-matrix-for-binary-classification) |
+| [Group by Month and Measure Days Between Dates](https://www.deep-ml.com/problems/2335) | easy | 2026-11-20 | [solution](problems/2335-group-by-month-and-measure-days-between-dates) |
 | [Implement F-Score Calculation for Binary Classification](https://www.deep-ml.com/problems/61) | easy | 2026-10-29 | [solution](problems/0061-implement-f-score-calculation-for-binary-classification) |
 | [Implement Gini Impurity Calculation for a Set of Classes](https://www.deep-ml.com/problems/64) | easy | 2026-10-29 | [solution](problems/0064-implement-gini-impurity-calculation-for-a-set-of-classes) |
 | [Implement Precision Metric](https://www.deep-ml.com/problems/46) | easy | 2026-10-26 | [solution](problems/0046-implement-precision-metric) |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T08:24:41.293Z",
+  "generated_at": "2026-11-20T05:11:49.717Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -1060,6 +1060,19 @@
       "last_pushed_at": "2026-11-19T08:24:40.686Z",
       "language": "sql",
       "lines": 4
+    },
+    "problem:2335": {
+      "kind": "problem",
+      "id": "2335",
+      "title": "Group by Month and Measure Days Between Dates",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/2335",
+      "path": "problems/2335-group-by-month-and-measure-days-between-dates",
+      "first_solved_at": "2026-11-20T05:11:48.380Z",
+      "last_pushed_at": "2026-11-20T05:11:48.380Z",
+      "language": "sql",
+      "lines": 2
     }
   }
 }

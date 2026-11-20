@@ -1,0 +1,2 @@
+-- Tickets opened per month and average days to close
+Select CAST(DATE_TRUNC('month',opened_date) as DATE) as month,COUNT(*) as tickets_opened,ROUND(AVG(closed_date-opened_date),2) as avg_days_to_close from tickets group by CAST(DATE_TRUNC('month',opened_date) as DATE);
