@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T16:19:49.521Z",
+  "generated_at": "2026-11-22T19:03:07.147Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -1083,7 +1083,7 @@
       "url": "https://www.deep-ml.com/problems/2228",
       "path": "problems/2228-actor-and-director-pairs-who-work-together-often",
       "first_solved_at": "2026-11-21T16:19:49.452Z",
-      "last_pushed_at": "2026-11-21T16:19:49.452Z",
+      "last_pushed_at": "2026-11-22T19:03:07.307Z",
       "language": "sql",
       "lines": 13
     }
