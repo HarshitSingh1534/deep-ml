@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**87** solved · 83 problems · 1 labs · 3 math
+**88** solved · 84 problems · 1 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -81,6 +81,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Join Three Tables: Order Totals from Line Items](https://www.deep-ml.com/problems/2336) | medium | 2026-11-19 | [solution](problems/2336-join-three-tables-order-totals-from-line-items) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-10-20 | [solution](problems/0017-k-means-clustering) |
 | [Linear Regression - Power Grid Optimization](https://www.deep-ml.com/problems/92) | medium | 2026-11-02 | [solution](problems/0092-linear-regression-power-grid-optimization) |
+| [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-11-24 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-11-15 | [solution](problems/0007-matrix-transformation) |
 | [Month-over-Month Percentage Change with LAG](https://www.deep-ml.com/problems/1115) | medium | 2026-11-14 | [solution](problems/1115-month-over-month-percentage-change-with-lag) |
 | [Nth-Highest Salary with Ties and NULL](https://www.deep-ml.com/problems/1110) | medium | 2026-11-14 | [solution](problems/1110-nth-highest-salary-with-ties-and-null) |
