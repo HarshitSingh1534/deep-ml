@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**88** solved · 84 problems · 1 labs · 3 math
+**89** solved · 85 problems · 1 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -30,6 +30,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Customers Who Never Placed an Order](https://www.deep-ml.com/problems/1460) | easy | 2026-11-09 | [solution](problems/1460-customers-who-never-placed-an-order) |
 | [Delete Duplicate Emails Keeping One](https://www.deep-ml.com/problems/1112) | easy | 2026-11-09 | [solution](problems/1112-delete-duplicate-emails-keeping-one) |
 | [Detect Overfitting or Underfitting](https://www.deep-ml.com/problems/86) | easy | 2026-11-02 | [solution](problems/0086-detect-overfitting-or-underfitting) |
+| [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-11-24 | [solution](problems/0083-dot-product-calculator) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-10-20 | [solution](problems/0016-feature-scaling-implementation) |
 | [Filter rows with WHERE](https://www.deep-ml.com/problems/1103) | easy | 2026-11-08 | [solution](problems/1103-filter-rows-with-where) |
 | [Filter Rows with WHERE, Then Groups with HAVING](https://www.deep-ml.com/problems/2217) | easy | 2026-11-22 | [solution](problems/2217-filter-rows-with-where-then-groups-with-having) |
