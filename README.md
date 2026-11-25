@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**89** solved · 85 problems · 1 labs · 3 math
+**90** solved · 86 problems · 1 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -34,6 +34,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-10-20 | [solution](problems/0016-feature-scaling-implementation) |
 | [Filter rows with WHERE](https://www.deep-ml.com/problems/1103) | easy | 2026-11-08 | [solution](problems/1103-filter-rows-with-where) |
 | [Filter Rows with WHERE, Then Groups with HAVING](https://www.deep-ml.com/problems/2217) | easy | 2026-11-22 | [solution](problems/2217-filter-rows-with-where-then-groups-with-having) |
+| [Find Duplicate Signups on a Composite Key](https://www.deep-ml.com/problems/2218) | easy | 2026-11-25 | [solution](problems/2218-find-duplicate-signups-on-a-composite-key) |
 | [Generate a Confusion Matrix for Binary Classification](https://www.deep-ml.com/problems/75) | easy | 2026-10-29 | [solution](problems/0075-generate-a-confusion-matrix-for-binary-classification) |
 | [Group by Month and Measure Days Between Dates](https://www.deep-ml.com/problems/2335) | easy | 2026-11-20 | [solution](problems/2335-group-by-month-and-measure-days-between-dates) |
 | [Implement F-Score Calculation for Binary Classification](https://www.deep-ml.com/problems/61) | easy | 2026-10-29 | [solution](problems/0061-implement-f-score-calculation-for-binary-classification) |
