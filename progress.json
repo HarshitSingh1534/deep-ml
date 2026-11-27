@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T18:26:38.485Z",
+  "generated_at": "2026-11-27T19:42:04.124Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -1177,6 +1177,19 @@
       "last_pushed_at": "2026-11-26T18:26:37.085Z",
       "language": "python",
       "lines": 19
+    },
+    "problem:1250": {
+      "kind": "problem",
+      "id": "1250",
+      "title": "Reverse a Singly Linked List",
+      "difficulty": "easy",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/1250",
+      "path": "problems/1250-reverse-a-singly-linked-list",
+      "first_solved_at": "2026-11-27T19:42:04.419Z",
+      "last_pushed_at": "2026-11-27T19:42:04.419Z",
+      "language": "python",
+      "lines": 5
     }
   }
 }
